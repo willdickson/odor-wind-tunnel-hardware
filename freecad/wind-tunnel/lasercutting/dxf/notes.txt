@@ -1,0 +1,2 @@
+Note, modified inner lid dimensions.  Removed side margin from length.   Need
+to remake dxf files before printing. 
