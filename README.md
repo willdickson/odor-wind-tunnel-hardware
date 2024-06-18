@@ -1,4 +1,4 @@
-# wind-tunnel-hardware
+# odor-wind-tunnel-hardware
 Hardware design files for a small wind tunnel used for odor experiments with flies.  
 
 # License: 
