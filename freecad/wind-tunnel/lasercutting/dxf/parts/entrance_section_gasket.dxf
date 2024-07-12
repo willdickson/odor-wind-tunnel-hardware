@@ -699,7 +699,7 @@ SECTION
   2
 ENTITIES
   0
-ARC
+CIRCLE
   5
 A08
 330
@@ -711,257 +711,7 @@ Sketch039
 100
 AcDbCircle
  10
--6.9e-16
- 20
-11.7511
- 30
-0
- 40
-10
-100
-AcDbArc
- 50
--121.681
- 51
--58.3186
-  0
-LINE
-  5
-A09
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbLine
- 10
-5.25195
- 20
-3.24131
- 30
-0
- 11
-70.252
- 21
-43.3569
- 31
-0
-  0
-ARC
-  5
-A0A
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbCircle
- 10
-65
- 20
-51.8668
- 30
-0
- 40
-10
-100
-AcDbArc
- 50
--58.3186
- 51
-0
-  0
-LINE
-  5
-A0B
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbLine
- 10
-75
- 20
-103.2
- 30
-0
- 11
-75
- 21
-51.8668
- 31
-0
-  0
-ARC
-  5
-A0C
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbCircle
- 10
-73
- 20
-103.2
- 30
-0
- 40
-2
-100
-AcDbArc
- 50
-0
- 51
-90
-  0
-LINE
-  5
-A0D
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbLine
- 10
--73
- 20
-105.2
- 30
-0
- 11
-73
- 21
-105.2
- 31
-0
-  0
-ARC
-  5
-A0E
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbCircle
- 10
--73
- 20
-103.2
- 30
-0
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-180
-  0
-LINE
-  5
-A0F
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbLine
- 10
--75
- 20
-51.8668
- 30
-0
- 11
--75
- 21
-103.2
- 31
-0
-  0
-ARC
-  5
-A10
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbCircle
- 10
--65
- 20
-51.8668
- 30
-0
- 40
-10
-100
-AcDbArc
- 50
-180
- 51
--121.681
-  0
-LINE
-  5
-A11
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbLine
- 10
--5.25195
- 20
-3.24131
- 30
-0
- 11
--70.252
- 21
-43.3569
- 31
-0
-  0
-CIRCLE
-  5
-A12
-330
-A02
-100
-AcDbEntity
-  8
-Sketch039
-100
-AcDbCircle
- 10
-0
+2.23158e-30
  20
 7.3
  40
@@ -969,7 +719,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A13
+A09
 330
 A02
 100
@@ -987,7 +737,7 @@ AcDbCircle
   0
 CIRCLE
   5
-A14
+A0A
 330
 A02
 100
@@ -1005,7 +755,7 @@ AcDbCircle
   0
 ARC
   5
-A15
+A0B
 330
 A02
 100
@@ -1031,7 +781,7 @@ AcDbArc
   0
 LINE
   5
-A16
+A0C
 330
 A02
 100
@@ -1055,7 +805,7 @@ AcDbLine
   0
 ARC
   5
-A17
+A0D
 330
 A02
 100
@@ -1075,13 +825,13 @@ AcDbCircle
 100
 AcDbArc
  50
--4.07111e-13
+0
  51
 90
   0
 LINE
   5
-A18
+A0E
 330
 A02
 100
@@ -1105,7 +855,7 @@ AcDbLine
   0
 ARC
   5
-A19
+A0F
 330
 A02
 100
@@ -1127,11 +877,11 @@ AcDbArc
  50
 -56.3144
  51
-4.07111e-14
+0
   0
 LINE
   5
-A1A
+A10
 330
 A02
 100
@@ -1155,7 +905,7 @@ AcDbLine
   0
 ARC
   5
-A1B
+A11
 330
 A02
 100
@@ -1165,7 +915,7 @@ Sketch039
 100
 AcDbCircle
  10
--1.10586e-12
+-6.14885e-16
  20
 28.5179
  30
@@ -1181,7 +931,7 @@ AcDbArc
   0
 LINE
   5
-A1C
+A12
 330
 A02
 100
@@ -1205,7 +955,7 @@ AcDbLine
   0
 ARC
   5
-A1D
+A13
 330
 A02
 100
@@ -1225,13 +975,13 @@ AcDbCircle
 100
 AcDbArc
  50
--180
+180
  51
 -123.686
   0
 LINE
   5
-A1E
+A14
 330
 A02
 100
@@ -1252,6 +1002,256 @@ AcDbLine
 60.8458
  31
 0
+  0
+LINE
+  5
+A15
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbLine
+ 10
+-74
+ 20
+51.8668
+ 30
+0
+ 11
+-74
+ 21
+103.2
+ 31
+0
+  0
+ARC
+  5
+A16
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbCircle
+ 10
+-73
+ 20
+103.2
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+A17
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbLine
+ 10
+-73
+ 20
+104.2
+ 30
+0
+ 11
+73
+ 21
+104.2
+ 31
+0
+  0
+ARC
+  5
+A18
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbCircle
+ 10
+73
+ 20
+103.2
+ 30
+0
+ 40
+1
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+LINE
+  5
+A19
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbLine
+ 10
+74
+ 20
+103.2
+ 30
+0
+ 11
+74
+ 21
+51.8668
+ 31
+0
+  0
+ARC
+  5
+A1A
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbCircle
+ 10
+65
+ 20
+51.8668
+ 30
+0
+ 40
+9
+100
+AcDbArc
+ 50
+-58.3186
+ 51
+-4.52346e-14
+  0
+LINE
+  5
+A1B
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbLine
+ 10
+69.7268
+ 20
+44.2079
+ 30
+0
+ 11
+4.72676
+ 21
+4.09229
+ 31
+0
+  0
+ARC
+  5
+A1C
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbCircle
+ 10
+9.49736e-16
+ 20
+11.7511
+ 30
+0
+ 40
+9
+100
+AcDbArc
+ 50
+-121.681
+ 51
+-58.3186
+  0
+LINE
+  5
+A1D
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbLine
+ 10
+-69.7268
+ 20
+44.2079
+ 30
+0
+ 11
+-4.72676
+ 21
+4.09229
+ 31
+0
+  0
+ARC
+  5
+A1E
+330
+A02
+100
+AcDbEntity
+  8
+Sketch039
+100
+AcDbCircle
+ 10
+-65
+ 20
+51.8668
+ 30
+0
+ 40
+9
+100
+AcDbArc
+ 50
+180
+ 51
+-121.681
   0
 ENDSEC
   0
